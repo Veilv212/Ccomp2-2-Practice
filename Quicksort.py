@@ -1,5 +1,5 @@
 
-# Merge recursivo:
+# Quicksort recursivo:
 
 def quicksort(lista):
     if len(lista) <= 1:
