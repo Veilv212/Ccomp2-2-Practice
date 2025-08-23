@@ -20,4 +20,3 @@ def quicksort(lista):
 mi_lista = [2,4,21,3,6,10,23]
 ordenada = quicksort(mi_lista)
 print(ordenada)
-
